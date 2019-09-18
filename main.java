@@ -230,22 +230,5 @@ public class main {
 		
 	}
 	
-//	public static void control() throws Exception{
-//		
-//		
-//		int kontrol = query.execute();
-//		if (kontrol ==1) {
-//			System.out.println("Ogrenci basariyla kaydedildi");
-//		}
-//		else {
-//			System.out.println("Ogrenci kaydedilemedi");
-//		}
-//		query.close();
-//		connection.close();
-//		
-//		
-//		
-//	}
-	
 
 }
